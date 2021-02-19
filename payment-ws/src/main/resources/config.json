@@ -3,7 +3,7 @@
       "1":{
          "id":"1",
          "name":"1 Bitcoin",
-         "amount":1.0
+         "amount":1
       },
       "2":{
          "id":"2",
@@ -45,5 +45,5 @@
    "token":"OmjknFAEzOHIbtaM1YLK",
    "requiredConfirmations":3,
    "rake":0.01,
-   "rakeAddress":"c98ysadnf1l3jh13678tcapd9yfa"
+   "rakeAddress":"32C3xGRXnGUxZXDSQFRkL1VuiqzYcNCPbK"
 }
